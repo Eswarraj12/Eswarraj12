@@ -1,8 +1,7 @@
 - 👋 I am a pre-final year Electronics and Communication Engineering student at NIT Agartala.
 - 👀 I’m a Web Developer...
 - 🌱  I’m currently Working with ReactJS/Redux , NodeJS/Express ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Eswarraj12/Eswarraj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
